@@ -1,6 +1,20 @@
-# Cronômetro
+# Cronômetro v2
 
 Cronômetro moderno em Python com PyQt6, modo compacto e atalho global.
+
+## Exemplos de uso
+
+Modo completo gravando:  
+![Modo completo gravando](screenshots/Captura%20de%20tela%202025-08-04%20150743.png)
+
+Modo completo e histórico:  
+![Modo completo e histórico](screenshots/Captura%20de%20tela%202025-08-04%20150750.png)
+
+Modo compacto gravando:  
+![Modo compacto gravando](screenshots/Captura%20de%20tela%202025-08-04%20150803.png)
+
+Configuração de atalho:  
+![Configuração de atalho](screenshots/Captura%20de%20tela%202025-08-04%20151309.png)
 
 ## Requisitos
 - Python 3.9+
@@ -29,3 +43,5 @@ O atalho configurado funciona mesmo com a janela em segundo plano (requer permis
 
 ## Modo compacto
 Clique em "Modo Compacto" para exibir apenas o tempo e um botão discreto de restaurar.
+
+## Galeria de Imagens
